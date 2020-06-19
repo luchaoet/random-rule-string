@@ -1,0 +1,26 @@
+{
+  "name": "@luchao/random-rule-string",
+  "version": "1.0.1",
+  "description": "生成随机字符串，适用于生成随机密码或验证码",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack -p",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luchaoet/random-rule-string.git"
+  },
+  "author": "luchaoet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luchaoet/random-rule-string/issues",
+    "email": "luchaoet@icloud.com"
+  },
+  "homepage": "https://github.com/luchaoet/random-rule-string#readme",
+  "files": [
+    "index.js",
+    "dist",
+    "README.md"
+  ]
+}

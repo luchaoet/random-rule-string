@@ -1,8 +1,8 @@
 {
   "name": "@luchao/random-rule-string",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "生成随机字符串，适用于生成随机密码或验证码",
-  "main": "index.js",
+  "main": "src/main.js",
   "scripts": {
     "build": "webpack -p",
     "test": "echo \"Error: no test specified\" && exit 1"
